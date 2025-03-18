@@ -1,0 +1,14 @@
+google-genai
+agno
+pycountry
+python-dotenv
+streamlit
+
+## api
+kaggle
+tavily-python
+googlesearch-python 
+
+
+newspaper4k
+lxml_html_clean

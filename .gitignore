@@ -1,0 +1,5 @@
+.kaggle
+.env
+venv
+__pycache__
+Agents/__pycache__
