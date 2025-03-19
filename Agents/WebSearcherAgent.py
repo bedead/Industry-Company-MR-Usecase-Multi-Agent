@@ -6,7 +6,7 @@ from agno.tools.duckduckgo import DuckDuckGoTools
 from agno.tools.tavily import TavilyTools
 from agno.models.google.gemini import Gemini
 from agno.models.groq.groq import Groq
-from llm_utils import get_google_api_key, get_groq_api_key
+from utils import get_google_api_key, get_groq_api_key
 from agno.agent import Agent
 
 

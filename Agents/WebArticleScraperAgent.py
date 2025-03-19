@@ -3,7 +3,7 @@ from typing import Optional
 from pydantic import BaseModel, Field
 from agno.tools.newspaper4k import Newspaper4kTools
 from agno.models.google.gemini import Gemini
-from llm_utils import get_google_api_key
+from utils import get_google_api_key
 from agno.agent import Agent
 
 

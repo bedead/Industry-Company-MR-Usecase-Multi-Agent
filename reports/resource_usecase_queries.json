@@ -1,0 +1,182 @@
+```json
+{
+  "use_cases": [
+    {
+      "id": "UC1",
+      "title": "Enhanced Image and Video Processing",
+      "search_queries": {
+        "kaggle": [
+          "image enhancement datasets kaggle",
+          "low light image enhancement CNN kaggle",
+          "computational photography datasets",
+          "deep learning image super resolution kaggle"
+        ],
+        "huggingface": [
+          "image enhancement models huggingface",
+          "gan image generation huggingface",
+          "low-light image enhancement transformers",
+          "computer vision models for mobile"
+        ],
+        "github": [
+          "low-light image enhancement python",
+          "real-time image enhancement github",
+          "gan implementation for image processing",
+          "computer vision projects for smartphones"
+        ]
+      }
+    },
+    {
+      "id": "UC2",
+      "title": "Personalized User Experience",
+      "search_queries": {
+        "kaggle": [
+          "app usage datasets kaggle",
+          "user behavior datasets for recommendation systems",
+          "collaborative filtering datasets",
+          "NLP sentiment analysis datasets for app reviews"
+        ],
+        "huggingface": [
+          "recommendation system models huggingface",
+          "nlp models for user personalization",
+          "content-based filtering models",
+          "user engagement prediction models"
+        ],
+        "github": [
+          "personalized app recommendations github",
+          "user behavior analysis python",
+          "collaborative filtering implementation",
+          "nlp based user profiling github"
+        ]
+      }
+    },
+    {
+      "id": "UC3",
+      "title": "Predictive Maintenance for Manufacturing",
+      "search_queries": {
+        "kaggle": [
+          "machine maintenance datasets kaggle",
+          "time series analysis for predictive maintenance",
+          "iot sensor data for predictive maintenance",
+          "manufacturing equipment failure prediction"
+        ],
+        "huggingface": [
+          "time series forecasting models huggingface",
+          "predictive maintenance models",
+          "machine learning models for iot data"
+        ],
+        "github": [
+          "predictive maintenance with python",
+          "iot data analysis for predictive maintenance github",
+          "time series forecasting using LSTM github",
+          "manufacturing analytics using machine learning"
+        ]
+      }
+    },
+    {
+      "id": "UC4",
+      "title": "Intelligent Power Management",
+      "search_queries": {
+        "kaggle": [
+          "smartphone battery datasets",
+          "power consumption prediction datasets",
+          "energy efficiency datasets for mobile devices"
+        ],
+        "huggingface": [
+          "reinforcement learning models for power optimization",
+          "energy efficiency models for mobile devices",
+          "power consumption prediction models"
+        ],
+        "github": [
+          "reinforcement learning for power management github",
+          "power optimization algorithms python",
+          "battery life prediction using machine learning"
+        ]
+      }
+    },
+    {
+      "id": "UC5",
+      "title": "Advanced Voice Assistant",
+      "search_queries": {
+        "kaggle": [
+          "speech recognition datasets kaggle",
+          "natural language understanding datasets",
+          "dialogue management datasets"
+        ],
+        "huggingface": [
+          "speech recognition models huggingface",
+          "nlp models for voice assistants",
+          "dialogue management models huggingface"
+        ],
+        "github": [
+          "speech recognition using python",
+          "nlp for voice assistants github",
+          "dialogue management systems github",
+          "conversational ai projects"
+        ]
+      }
+    },
+    {
+      "id": "UC6",
+      "title": "Fraud Detection & Security",
+      "search_queries": {
+        "kaggle": [
+          "fraud detection datasets kaggle",
+          "anomaly detection datasets",
+          "credit card fraud detection datasets"
+        ],
+        "huggingface": [
+          "anomaly detection models huggingface",
+          "fraud detection models",
+          "machine learning models for security"
+        ],
+        "github": [
+          "fraud detection using python",
+          "anomaly detection algorithms github",
+          "machine learning for cybersecurity github"
+        ]
+      }
+    },
+    {
+      "id": "UC7",
+      "title": "Supply Chain Optimization",
+      "search_queries": {
+        "kaggle": [
+          "supply chain datasets kaggle",
+          "demand forecasting datasets",
+          "inventory management datasets"
+        ],
+        "huggingface": [
+          "time series forecasting models huggingface",
+          "supply chain optimization models"
+        ],
+        "github": [
+          "supply chain optimization python",
+          "demand forecasting algorithms github",
+          "inventory management using machine learning"
+        ]
+      }
+    },
+    {
+      "id": "UC8",
+      "title": "Targeted Advertising (within App Ecosystem)",
+      "search_queries": {
+        "kaggle": [
+          "advertising datasets kaggle",
+          "user segmentation datasets",
+          "recommendation system datasets for advertising"
+        ],
+        "huggingface": [
+          "recommendation system models huggingface",
+          "user segmentation models",
+          "targeted advertising models"
+        ],
+        "github": [
+          "targeted advertising using python",
+          "recommendation system for advertising github",
+          "user segmentation algorithms github"
+        ]
+      }
+    }
+  ]
+}
+```

@@ -2,12 +2,10 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-# print(os.getenv("GEMINI_API_KEY"))
 
 
 def get_google_api_key():
     GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-    # print(GEMINI_API_KEY)
     return GEMINI_API_KEY
 
 

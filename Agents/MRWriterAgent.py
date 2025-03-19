@@ -1,6 +1,6 @@
 from agno.agent import Agent
 from agno.models.google.gemini import Gemini
-from llm_utils import get_google_api_key
+from utils import get_google_api_key
 
 
 """
