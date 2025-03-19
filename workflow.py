@@ -11,8 +11,6 @@ from Agents.UsecaseQueryGeneratorAgent import UsecaseQueryGeneratorAgent
 from Agents.UseCaseFinderAgent import UseCaseFinderAgent
 from Agents.WebSearcherAgent import WebSearcherAgent
 from Agents.WebArticleScraperAgent import WebArticleScraperAgent
-from agno.models.groq import Groq
-from utils import get_groq_api_key
 
 reports_dir = Path(__file__).parent.joinpath("reports")
 if reports_dir.is_dir():
