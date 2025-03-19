@@ -1,5 +1,6 @@
 google-genai
 agno
+groq
 pycountry
 python-dotenv
 streamlit
@@ -7,7 +8,8 @@ streamlit
 ## api
 kaggle
 tavily-python
-googlesearch-python 
+googlesearch-python
+duckduckgo_search
 
 
 newspaper4k

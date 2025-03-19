@@ -22,7 +22,7 @@ instructions=[
 """
 
 
-def MRWriterAgent(save_response_at_file: str) -> Agent:
+def MRWriterAgent(save_response_as_file) -> Agent:
     industry_research_agent: Agent = Agent(
         name="Market Research Writer Agent",
         model=Gemini(id="gemini-1.5-flash", api_key=get_google_api_key()),
@@ -32,7 +32,6 @@ def MRWriterAgent(save_response_at_file: str) -> Agent:
             "Organize content into clear sections, including: Company Overview, Industry Classification, Key Offerings, Strategic Focus Areas, Current Technology Usage, Operational Challenges, and AI Adoption Trends.",
             "Ensure logical flow and coherence, maintaining a professional tone and precise industry terminology.",
             "Where applicable, integrate references to industry-specific reports and insights from authoritative sources such as McKinsey, Deloitte, Nexocode, and leading business publications.",
-            "Cite all referenced data, statistics, and insights using proper in-text citations, with URLs included at the end of relevant paragraphs (e.g., [Source](URL)).",
             "Highlight competitive benchmarks by summarizing how key competitors leverage AI and digital transformation strategies.",
             "Incorporate key findings on emerging trends and industry-wide shifts, emphasizing real-world applications of AI/ML technologies.",
             "If direct company-specific insights are limited, expand the analysis by referencing broader industry trends and comparable case studies.",
@@ -41,8 +40,8 @@ def MRWriterAgent(save_response_at_file: str) -> Agent:
         ],
         # show_tool_calls=True,
         expected_output="Comprehensive analysis of companies and their market segments report in markdown format",
-        debug_mode=True,
-        save_response_to_file=save_response_at_file,
+        # debug_mode=True,
+        save_response_to_file=save_response_as_file,
         markdown=True,
     )
 

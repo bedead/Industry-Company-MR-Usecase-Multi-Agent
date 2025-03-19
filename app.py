@@ -26,7 +26,7 @@ logger.addHandler(log_handler)
 logger.setLevel(logging.INFO)  # Ensure logger captures INFO level messages
 
 # Initialize Streamlit app
-st.set_page_config(page_title="Multi-Agent AI Research", layout="wide")
+# st.set_page_config(page_title="Multi-Agent AI Research", layout="wide")
 
 # Sidebar for logs
 st.sidebar.title("Logs")
@@ -120,23 +120,23 @@ if run_button and query:
                             )  # Show first 300 chars
                             use_cases = {"use_cases": []}  # Minimal structure fallback
 
-                    # Display corresponding download button
-                    if report_file.exists():
-                        with open(report_file, "r", encoding="utf-8") as file:
-                            content = file.read()
+                    # # Display corresponding download button
+                    # if report_file.exists():
+                    #     with open(report_file, "r", encoding="utf-8") as file:
+                    #         content = file.read()
 
-                        st.download_button(
-                            type="primary",
-                            label=f"Download {report_title}",
-                            data=content,
-                            file_name=report_file.name,
-                            mime=(
-                                "text/markdown"
-                                if report_file.suffix == ".md"
-                                else "application/json"
-                            ),
-                        )
+                    #     st.download_button(
+                    #         type="primary",
+                    #         label=f"Download {report_title}",
+                    #         data=content,
+                    #         file_name=report_file.name,
+                    #         mime=(
+                    #             "text/markdown"
+                    #             if report_file.suffix == ".md"
+                    #             else "application/json"
+                    #         ),
+                    #     )
 
-                    time.sleep(0.5)
+                    # time.sleep(0.5)
 
     st.success("Workflow completed! Check the reports above.")

@@ -1,7 +1,6 @@
 from agno.agent import Agent
 from agno.models.google.gemini import Gemini
 from llm_utils import get_google_api_key
-from agno.tools.googlesearch import GoogleSearchTools
 
 
 def UsecaseQueryGeneratorAgent(
@@ -9,7 +8,6 @@ def UsecaseQueryGeneratorAgent(
 ) -> Agent:
     resource_query_agent: Agent = Agent(
         name="UsecaseQueryGeneratorAgent",
-        tools=[GoogleSearchTools()],
         model=Gemini(id="gemini-1.5-flash", api_key=get_google_api_key()),
         description="""You are a specialized data resource curator who identifies and collects relevant datasets, models, and implementation resources for AI/ML use cases.
         You analyze detailed use case information (including business problems, AI/ML approaches, functional areas, and keywords) to craft effective search queries for Kaggle, HuggingFace, and GitHub.
@@ -28,7 +26,7 @@ def UsecaseQueryGeneratorAgent(
         ],
         save_response_to_file=save_response_at_file,
         markdown=markdown,
-        debug_mode=True,
+        # debug_mode=True,
     )
 
     return resource_query_agent

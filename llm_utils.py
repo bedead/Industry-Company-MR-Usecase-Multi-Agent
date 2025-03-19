@@ -21,3 +21,7 @@ def get_kaggle_username():
 
 def get_kaggle_api_key():
     return os.getenv("KAGGLE_API_KEY")
+
+
+def get_groq_api_key():
+    return os.getenv("GROQ_API_KEY")
