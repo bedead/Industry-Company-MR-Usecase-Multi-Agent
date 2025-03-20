@@ -14,7 +14,6 @@ def UsecaseWriter(save_response_at_file) -> Agent:
             "Compare the company's current technology adoption against industry benchmarks to highlight gaps and potential opportunities.",
             "Generate at least 8 well-defined AI/ML use cases addressing the company's pain points and strategic goals, backed by real-world industry applications.",
             "For each use case, clearly define: (1) The business problem being solved, (2) The AI/ML approach recommended, (3) Expected business impact, (4) Implementation complexity.",
-            "Make sure to include working reference url of content sources."
             "Prioritize use cases based on a weighted scoring system: Business Impact (60%) and Implementation Feasibility (40%).",
             "Categorize each use case by functional area (e.g., Operations, Supply Chain, Customer Experience, Marketing, Finance, etc.).",
             "For each use case, identify the most relevant GenAI and ML technologies (e.g., LLMs, Computer Vision, Predictive Analytics, NLP) and reference any successful implementations from industry leaders.",
@@ -23,8 +22,7 @@ def UsecaseWriter(save_response_at_file) -> Agent:
             "Organize all findings into a structured format with clear sections, priority scores, and categorization.",
             "Focus on practical, implementable AI solutions rather than theoretical concepts.",
             "Include estimated timeframes for implementation (Short-term: 0-6 months, Medium-term: 6-12 months, Long-term: 12+ months) with supporting industry case studies where available.",
-            "Ensure all sources are properly cited, adding URLs at the end of relevant paragraphs in proper markdown format (e.g., [Source](URL)).",
-            "Perform at least 6 distinct searches related to AI adoption in this specific industry before finalizing the report.",
+            "Ensure all sources are properly cited, adding URLs at the end of relevant paragraphs in proper markdown format (e.g., [Source](URL)) only if available.",
         ],
         debug_mode=True,
         save_response_to_file=save_response_at_file,
