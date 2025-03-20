@@ -1,69 +1,60 @@
 # AI/ML Resources for Use Cases
 
-## UC1: AI-Powered Image Enhancement
+## UC1: Personalized User Interface
 
 ### Kaggle Datasets
 
-#### [Eye Gaze](https://www.kaggle.com/datasets/4quant/eye-gaze) ✅ Verified
+#### [Football Data: Competitions, Clubs, Players](https://www.kaggle.com/datasets/thedevastator/football-data-competitions-clubs-players-statist) ✅ Verified
 
-- **Owner:** 4Quant
-- **Size:** 4.46 GB
-- **Last Updated:** 2018-06-27 07:15:30.253000
-- **Downloads:** 6213
+- **Owner:** The Devastator
+- **Size:** 44.58 MB
+- **Last Updated:** 2023-12-20 11:48:59.943000
+- **Downloads:** 910
 - **License:** Not specified
 - **Description:** No description available
 
-#### [COVIDx CXR-4](https://www.kaggle.com/datasets/andyczhao/covidx-cxr2) ✅ Verified
+#### [Iva_intelligence_virtual_assitant_dataset](https://www.kaggle.com/datasets/ivachatbot/iva-intelligence-virtual-assitant-dataset) ✅ Verified
 
-- **Owner:** Andy
-- **Size:** 28.94 GB
-- **Last Updated:** 2023-10-17 05:39:16.533000
-- **Downloads:** 12143
+- **Owner:** IVA-Emotional Intelligence & Support
+- **Size:** 11.85 GB
+- **Last Updated:** 2025-03-12 07:30:58.967000
+- **Downloads:** 3
 - **License:** Not specified
 - **Description:** No description available
 
-#### [Oxford 102 Flower Dataset](https://www.kaggle.com/datasets/nunenuh/pytorch-challange-flower-dataset) ✅ Verified
+#### [Uber Customer Reviews Dataset (2024)](https://www.kaggle.com/datasets/kanchana1990/uber-customer-reviews-dataset-2024) ✅ Verified
 
-- **Owner:** Lalu Erfandi Maula Yusnu
-- **Size:** 330.46 MB
-- **Last Updated:** 2021-05-26 02:30:52.533000
-- **Downloads:** 8675
+- **Owner:** Kanchana1990
+- **Size:** 458.68 KB
+- **Last Updated:** 2024-12-19 19:05:47.127000
+- **Downloads:** 1710
 - **License:** Not specified
 - **Description:** No description available
 
-#### [The Complete Mini-DDSM](https://www.kaggle.com/datasets/cheddad/miniddsm2) ✅ Verified
+#### [Air France Reviews Dataset](https://www.kaggle.com/datasets/saharnazyaghoobpoor/air-france-reviews-dataset) ✅ Verified
 
-- **Owner:** Abbas Cheddad
-- **Size:** 49.10 GB
-- **Last Updated:** 2021-03-24 08:39:18.630000
-- **Downloads:** 9135
+- **Owner:** saharnaz yaghoobpour
+- **Size:** 626.68 KB
+- **Last Updated:** 2024-11-14 15:14:59.740000
+- **Downloads:** 830
 - **License:** Not specified
 - **Description:** No description available
 
-#### [LoLI-Street: Low-Light Image Enhancement of Street](https://www.kaggle.com/datasets/tanvirnwu/loli-street-low-light-image-enhancement-of-street) ✅ Verified
+#### [Mobile Device Usage and User Behavior Dataset](https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset) ✅ Verified
 
-- **Owner:** Md Tanvir Islam
-- **Size:** 2.63 GB
-- **Last Updated:** 2024-10-15 01:55:05.803000
-- **Downloads:** 439
+- **Owner:** vala khorasani
+- **Size:** 11.30 KB
+- **Last Updated:** 2024-09-28 20:21:12.513000
+- **Downloads:** 37265
 - **License:** Not specified
 - **Description:** No description available
 
-#### [Dark Face Dataset](https://www.kaggle.com/datasets/soumikrakshit/dark-face-dataset) ✅ Verified
+#### [Smartphone Usage and Behavioral Dataset](https://www.kaggle.com/datasets/bhadramohit/smartphone-usage-and-behavioral-dataset) ✅ Verified
 
-- **Owner:** Soumik Rakshit
-- **Size:** 4.08 GB
-- **Last Updated:** 2022-05-20 18:36:20.517000
-- **Downloads:** 3074
-- **License:** Not specified
-- **Description:** No description available
-
-#### [Europe-OCR](https://www.kaggle.com/datasets/longmaodata/europe-ocr) ✅ Verified
-
-- **Owner:** longmaodata
-- **Size:** 139.85 MB
-- **Last Updated:** 2024-10-12 10:11:42.387000
-- **Downloads:** 13
+- **Owner:** Bhadra Mohit
+- **Size:** 16.71 KB
+- **Last Updated:** 2024-10-23 03:16:02.350000
+- **Downloads:** 5754
 - **License:** Not specified
 - **Description:** No description available
 
@@ -73,126 +64,45 @@ No relevant resources found on HuggingFace.
 
 ### GitHub Repositories
 
-#### [visual-layer/fastdup](https://github.com/visual-layer/fastdup) ✅ Verified
+#### [hoangsonww/Moodify-Emotion-Music-App](https://github.com/hoangsonww/Moodify-Emotion-Music-App) ✅ Verified
 
-- **Description:** fastdup is a powerful, free tool designed to rapidly generate valuable insights from image and video datasets. It helps enhance the quality of both images and labels, while significantly reducing data...
-- **Stars:** 1664
-- **Forks:** 80
-- **Language:** Python
-- **Last Updated:** 2025-03-19T21:12:34Z
-- **License:** Other
-
-#### [wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) ✅ Verified
-
-- **Description:** Single Underwater Image Enhancement and Color Restoration, which is Python implementation for a comprehensive review paper "An Experimental-based Review of Image Enhancement and Image Restoration Meth...
-- **Stars:** 698
-- **Forks:** 154
-- **Language:** Python
-- **Last Updated:** 2025-03-20T03:37:25Z
-- **License:** Not specified
-
-#### [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) ✅ Verified
-
-- **Description:** OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generatio...
-- **Stars:** 7102
-- **Forks:** 1074
-- **Language:** Jupyter Notebook
-- **Last Updated:** 2025-03-20T03:10:46Z
-- **License:** Apache License 2.0
-
-#### [sanghyun-son/EDSR-PyTorch](https://github.com/sanghyun-son/EDSR-PyTorch) ✅ Verified
-
-- **Description:** PyTorch version of the paper 'Enhanced Deep Residual Networks for Single Image Super-Resolution' (CVPRW 2017) 
-- **Stars:** 2492
-- **Forks:** 676
-- **Language:** Python
-- **Last Updated:** 2025-03-20T05:54:31Z
+- **Description:** 🎹 Moodify - an emotion-based music recommendation system that uses AI/ML models to analyze text, speech, and facial expressions, providing personalized music recommendations across web and mobile plat...
+- **Stars:** 40
+- **Forks:** 15
+- **Language:** JavaScript
+- **Last Updated:** 2025-03-20T07:16:59Z
 - **License:** MIT License
 
-#### [thekevinscott/UpscalerJS](https://github.com/thekevinscott/UpscalerJS) ✅ Verified
+#### [yqmark/agreement](https://github.com/yqmark/agreement) ✅ Verified
 
-- **Description:** Enhance Images with Javascript and AI. Increase resolution, retouch, denoise, and more. Open Source, Browser & Node Compatible, MIT License.
-- **Stars:** 816
-- **Forks:** 74
-- **Language:** TypeScript
-- **Last Updated:** 2025-03-16T04:07:32Z
-- **License:** MIT License
-
-#### [nothinglo/Deep-Photo-Enhancer](https://github.com/nothinglo/Deep-Photo-Enhancer) ✅ Verified
-
-- **Description:** TensorFlow implementation of the CVPR 2018 spotlight paper, Deep Photo Enhancer: Unpaired Learning for Image Enhancement from Photographs with GANs 
-- **Stars:** 797
-- **Forks:** 111
+- **Description:** Privacy Policy introduction We understand the importance of personal information to you and will do our utmost to protect your personal information. We are committed to maintaining your trust in us an...
+- **Stars:** 17
+- **Forks:** 0
 - **Language:** Not specified
-- **Last Updated:** 2025-03-20T03:38:09Z
-- **License:** MIT License
-
-#### [eezkni/UEGAN](https://github.com/eezkni/UEGAN) ✅ Verified
-
-- **Description:** [TIP-2020] Pytorch implementation of "Towards Unsupervised Deep Image Enhancement with Generative Adversarial Network"
-- **Stars:** 122
-- **Forks:** 16
-- **Language:** Python
-- **Last Updated:** 2025-03-20T03:31:00Z
+- **Last Updated:** 2025-03-08T08:06:19Z
 - **License:** Not specified
 
 ---
 
-## UC2: Predictive Maintenance for Manufacturing
+## UC2: Predictive Maintenance in Manufacturing
 
 ### Kaggle Datasets
 
-#### [Machine Predictive Maintenance Classification](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification) ✅ Verified
+#### [Quality Prediction in a Mining Process](https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process) ✅ Verified
 
-- **Owner:** Shivam Bansal
-- **Size:** 136.54 KB
-- **Last Updated:** 2021-11-06 02:59:26.113000
-- **Downloads:** 30164
+- **Owner:** EduardoMagalhãesOliveira
+- **Size:** 50.91 MB
+- **Last Updated:** 2017-12-06 21:16:37.447000
+- **Downloads:** 17508
 - **License:** Not specified
 - **Description:** No description available
 
-#### [Elevator Predictive Maintenance Dataset](https://www.kaggle.com/datasets/shivamb/elevator-predictive-maintenance-dataset) ✅ Verified
+#### [NASA Turbofan Jet Engine Data Set](https://www.kaggle.com/datasets/behrad3d/nasa-cmaps) ✅ Verified
 
-- **Owner:** Shivam Bansal
-- **Size:** 1.93 MB
-- **Last Updated:** 2021-12-21 06:44:23.530000
-- **Downloads:** 3762
-- **License:** Not specified
-- **Description:** No description available
-
-#### [E-coating ultrafiltration maintenance dataset](https://www.kaggle.com/datasets/boyangs444/process-data-for-predictive-maintenance) ✅ Verified
-
-- **Owner:** Boyang Song
-- **Size:** 2.26 MB
-- **Last Updated:** 2020-09-23 11:21:33.103000
-- **Downloads:** 1848
-- **License:** Not specified
-- **Description:** No description available
-
-#### [Real Manufacturing and Trade Inventories 2020](https://www.kaggle.com/datasets/taghredsalah199/real-manufacturing-and-trade-inventories-2020) ✅ Verified
-
-- **Owner:** Taghred Salah
-- **Size:** 1.81 KB
-- **Last Updated:** 2020-10-02 08:59:38.897000
-- **Downloads:** 224
-- **License:** Not specified
-- **Description:** No description available
-
-#### [Machine Failure Predictions](https://www.kaggle.com/datasets/shashanknecrothapa/machine-failure-predictions) ✅ Verified
-
-- **Owner:** kozue
-- **Size:** 1.14 MB
-- **Last Updated:** 2023-06-20 17:38:51.607000
-- **Downloads:** 2023
-- **License:** Not specified
-- **Description:** No description available
-
-#### [Versatile Production System](https://www.kaggle.com/datasets/inIT-OWL/versatileproductionsystem) ✅ Verified
-
-- **Owner:** inIT
-- **Size:** 354.72 KB
-- **Last Updated:** 2018-09-12 13:32:32.017000
-- **Downloads:** 3614
+- **Owner:** B²
+- **Size:** 24.69 MB
+- **Last Updated:** 2019-07-26 01:13:37.440000
+- **Downloads:** 20991
 - **License:** Not specified
 - **Description:** No description available
 
@@ -201,7 +111,52 @@ No relevant resources found on HuggingFace.
 - **Owner:** arnab
 - **Size:** 30.99 MB
 - **Last Updated:** 2020-10-15 06:56:49.803000
-- **Downloads:** 12780
+- **Downloads:** 12781
+- **License:** Not specified
+- **Description:** No description available
+
+#### [Predictive Maintenance: Aircraft Engine](https://www.kaggle.com/datasets/mhadani/predictive-maintenance-aircraft-engine) ✅ Verified
+
+- **Owner:** Mohammed HADANI
+- **Size:** 1.29 MB
+- **Last Updated:** 2024-05-28 10:57:32.017000
+- **Downloads:** 1072
+- **License:** Not specified
+- **Description:** No description available
+
+#### [Edge-IIoTset Cyber Security Dataset of IoT & IIoT](https://www.kaggle.com/datasets/mohamedamineferrag/edgeiiotset-cyber-security-dataset-of-iot-iiot) ✅ Verified
+
+- **Owner:** Mohamed Amine FERRAG
+- **Size:** 1.63 GB
+- **Last Updated:** 2022-03-18 14:43:23.643000
+- **Downloads:** 16134
+- **License:** Not specified
+- **Description:** No description available
+
+#### [Temperature Readings : IOT Devices](https://www.kaggle.com/datasets/atulanandjha/temperature-readings-iot-devices) ✅ Verified
+
+- **Owner:** Atul Anand {Jha}
+- **Size:** 1.02 MB
+- **Last Updated:** 2019-12-01 18:48:54.063000
+- **Downloads:** 18015
+- **License:** Not specified
+- **Description:** No description available
+
+#### [Machine Failure Prediction Cleaned](https://www.kaggle.com/datasets/ikjotsingh221/machine-failure-cleaned) ✅ Verified
+
+- **Owner:** Ikjot Singh
+- **Size:** 56.60 KB
+- **Last Updated:** 2024-04-17 19:53:39.797000
+- **Downloads:** 1282
+- **License:** Not specified
+- **Description:** No description available
+
+#### [Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) ✅ Verified
+
+- **Owner:** fedesoriano
+- **Size:** 8.56 KB
+- **Last Updated:** 2021-09-10 18:11:57.517000
+- **Downloads:** 189365
 - **License:** Not specified
 - **Description:** No description available
 
@@ -210,60 +165,6 @@ No relevant resources found on HuggingFace.
 No relevant resources found on HuggingFace.
 
 ### GitHub Repositories
-
-#### [umbertogriffo/Predictive-Maintenance-using-LSTM](https://github.com/umbertogriffo/Predictive-Maintenance-using-LSTM) ✅ Verified
-
-- **Description:** Example of Multiple Multivariate Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras.
-- **Stars:** 670
-- **Forks:** 243
-- **Language:** Python
-- **Last Updated:** 2025-03-19T03:44:39Z
-- **License:** MIT License
-
-#### [Samimust/predictive-maintenance](https://github.com/Samimust/predictive-maintenance) ✅ Verified
-
-- **Description:** Data Wrangling, EDA, Feature Engineering, Model Selection, Regression, Binary and Multi-class Classification (Python, scikit-learn) 
-- **Stars:** 265
-- **Forks:** 151
-- **Language:** Jupyter Notebook
-- **Last Updated:** 2025-03-15T13:17:05Z
-- **License:** Not specified
-
-#### [curiousily/Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch) ✅ Verified
-
-- **Description:** Jupyter Notebook tutorials on solving real-world problems with Machine Learning & Deep Learning using PyTorch. Topics: Face detection with Detectron 2, Time Series anomaly detection with LSTM Autoenco...
-- **Stars:** 2409
-- **Forks:** 648
-- **Language:** Jupyter Notebook
-- **Last Updated:** 2025-03-19T15:42:19Z
-- **License:** Apache License 2.0
-
-#### [WenjieDu/PyPOTS](https://github.com/WenjieDu/PyPOTS) ✅ Verified
-
-- **Description:** A Python toolkit/library for reality-centric machine/deep learning and data mining on partially-observed time series, including SOTA neural network models for scientific analysis tasks of imputation/c...
-- **Stars:** 1313
-- **Forks:** 128
-- **Language:** Python
-- **Last Updated:** 2025-03-20T02:40:55Z
-- **License:** BSD 3-Clause "New" or "Revised" License
-
-#### [curiousily/Deep-Learning-For-Hackers](https://github.com/curiousily/Deep-Learning-For-Hackers) ✅ Verified
-
-- **Description:** Machine Learning tutorials with TensorFlow 2 and Keras in Python (Jupyter notebooks included) - (LSTMs, Hyperameter tuning, Data preprocessing, Bias-variance tradeoff, Anomaly Detection, Autoencoders,...
-- **Stars:** 1042
-- **Forks:** 440
-- **Language:** Jupyter Notebook
-- **Last Updated:** 2025-03-14T08:18:22Z
-- **License:** MIT License
-
-#### [KDD-OpenSource/DeepADoTS](https://github.com/KDD-OpenSource/DeepADoTS) ✅ Verified
-
-- **Description:** Repository of the paper "A Systematic Evaluation of Deep Anomaly Detection Methods for Time Series".
-- **Stars:** 580
-- **Forks:** 118
-- **Language:** Python
-- **Last Updated:** 2025-03-14T09:15:50Z
-- **License:** MIT License
 
 #### [somjit101/Predictive-Maintenance-Industrial-IOT](https://github.com/somjit101/Predictive-Maintenance-Industrial-IOT) ✅ Verified
 
@@ -283,102 +184,183 @@ No relevant resources found on HuggingFace.
 - **Last Updated:** 2024-06-25T10:52:57Z
 - **License:** Apache License 2.0
 
-#### [abiodun-ayodeji/Predictive-Maintenance](https://github.com/abiodun-ayodeji/Predictive-Maintenance) ✅ Verified
+#### [TheLittleEngineers/CoCoDragonFlexiMIDI-V1R2](https://github.com/TheLittleEngineers/CoCoDragonFlexiMIDI-V1R2) ✅ Verified
 
-- **Description:** This is a repository of sample codes and implementation framework for industrial machine predictive maintenance tasks using deep learning models. 
-- **Stars:** 27
+- **Description:** CC-FlexiMIDI-V1R0-03.09.2009 and CC-FlexiMIDI-V1R1-03.09.2009 : Updated to CC-FlexiMIDI-V1R2-12.29.2019 on December 29, 2019  ================================ BACKGROUND: CC-FlexiMIDI-V1R0-03.09.2009 ...
+- **Stars:** 8
 - **Forks:** 6
+- **Language:** Not specified
+- **Last Updated:** 2025-03-12T20:27:23Z
+- **License:** Not specified
+
+#### [akhiljamdar/Sales-forecasting-using-Time-series-analysis](https://github.com/akhiljamdar/Sales-forecasting-using-Time-series-analysis) ✅ Verified
+
+- **Description:** Business Case of Deere & Co. Deere and copmany forecast higher sales of machinery in the next financial year as the world’s largest tractor manufacturer downplayed the impact of the U.S.-China trade w...
+- **Stars:** 5
+- **Forks:** 4
 - **Language:** Jupyter Notebook
-- **Last Updated:** 2025-03-16T06:57:09Z
+- **Last Updated:** 2024-07-19T06:18:46Z
+- **License:** Not specified
+
+#### [nagdevAmruthnath/Predictive-Maintenance](https://github.com/nagdevAmruthnath/Predictive-Maintenance) ✅ Verified
+
+- **Description:** A notebook tutorial series for performing predictive maintenance using machine learning
+- **Stars:** 143
+- **Forks:** 74
+- **Language:** Jupyter Notebook
+- **Last Updated:** 2025-03-14T02:01:22Z
 - **License:** MIT License
 
-#### [Anudruti/Predictive-Failure-Analysis-of-Spindle-Motor-Cutting-Oil-Condition-Monitoring-of-Grinding-Machine-](https://github.com/Anudruti/Predictive-Failure-Analysis-of-Spindle-Motor-Cutting-Oil-Condition-Monitoring-of-Grinding-Machine-) ✅ Verified
+#### [lestercardoz11/fault-detection-for-predictive-maintenance-in-industry-4.0](https://github.com/lestercardoz11/fault-detection-for-predictive-maintenance-in-industry-4.0) ✅ Verified
 
-- **Description:** With the advent of Industry 4.0, manufacturing industries are competing to adopt intelligent machining systems into their processes to get on high-performance delivery of tasks in the least possible t...
-- **Stars:** 9
-- **Forks:** 2
+- **Description:** This research project will illustrate the use of machine learning and deep learning for predictive analysis in industry 4.0.
+- **Stars:** 123
+- **Forks:** 41
 - **Language:** Jupyter Notebook
-- **Last Updated:** 2025-03-15T08:31:42Z
-- **License:** Apache License 2.0
+- **Last Updated:** 2025-03-14T02:02:04Z
+- **License:** Not specified
+
+#### [FalconFive55/IoT-real-time-anomaly-detection](https://github.com/FalconFive55/IoT-real-time-anomaly-detection) ✅ Verified
+
+- **Description:** Anomaly detection in industrial IoT sensors (Collecting data for predictive maintenance)
+- **Stars:** 11
+- **Forks:** 2
+- **Language:** Python
+- **Last Updated:** 2024-04-27T21:15:25Z
+- **License:** Not specified
+
+#### [rohanmatt/Predictive-Maintenance-for-Industrial-Equipment](https://github.com/rohanmatt/Predictive-Maintenance-for-Industrial-Equipment) ✅ Verified
+
+- **Description:** An interactive web application designed for predictive maintenance of industrial machinery. This dashboard allows users to visualize historical sensor data, submit input data for prediction, and view ...
+- **Stars:** 4
+- **Forks:** 5
+- **Language:** Jupyter Notebook
+- **Last Updated:** 2025-03-04T12:59:14Z
+- **License:** Not specified
 
 ---
 
-## UC3: Personalized App Recommendations
+## UC3: Enhanced Image & Video Processing
 
 ### Kaggle Datasets
 
-#### [Articles sharing and reading from CI&T DeskDrop](https://www.kaggle.com/datasets/gspmoreira/articles-sharing-reading-from-cit-deskdrop) ✅ Verified
+#### [LoLI-Street: Low-Light Image Enhancement of Street](https://www.kaggle.com/datasets/tanvirnwu/loli-street-low-light-image-enhancement-of-street) ✅ Verified
 
-- **Owner:** Gabriel Moreira
-- **Size:** 8.20 MB
-- **Last Updated:** 2017-08-27 21:33:01.063000
-- **Downloads:** 24817
+- **Owner:** Md Tanvir Islam
+- **Size:** 2.63 GB
+- **Last Updated:** 2024-10-15 01:55:05.803000
+- **Downloads:** 439
 - **License:** Not specified
 - **Description:** No description available
 
-#### [Food Recognition 2022](https://www.kaggle.com/datasets/sainikhileshreddy/food-recognition-2022) ✅ Verified
+#### [Dark Face Dataset](https://www.kaggle.com/datasets/soumikrakshit/dark-face-dataset) ✅ Verified
 
-- **Owner:** Sai Nikhilesh Reddy
-- **Size:** 4.91 GB
-- **Last Updated:** 2022-01-31 03:57:09.477000
-- **Downloads:** 3234
+- **Owner:** Soumik Rakshit
+- **Size:** 4.08 GB
+- **Last Updated:** 2022-05-20 18:36:20.517000
+- **Downloads:** 3074
 - **License:** Not specified
 - **Description:** No description available
 
-#### [Clothing Fit Dataset for Size Recommendation](https://www.kaggle.com/datasets/rmisra/clothing-fit-dataset-for-size-recommendation) ✅ Verified
+#### [Dataset-Image-Super-Resolution](https://www.kaggle.com/datasets/saputrahas/dataset-image-super-resolution) ✅ Verified
 
-- **Owner:** Rishabh Misra
-- **Size:** 39.67 MB
-- **Last Updated:** 2018-08-21 19:00:16.793000
-- **Downloads:** 12218
+- **Owner:** saputra has
+- **Size:** 2.09 GB
+- **Last Updated:** 2018-12-14 13:24:33.207000
+- **Downloads:** 1269
 - **License:** Not specified
 - **Description:** No description available
 
-#### [Spotify Playlists](https://www.kaggle.com/datasets/andrewmvd/spotify-playlists) ✅ Verified
+#### [DF2K + OST](https://www.kaggle.com/datasets/thaihoa1476050/df2k-ost) ✅ Verified
 
-- **Owner:** Larxel
-- **Size:** 182.87 MB
-- **Last Updated:** 2021-11-15 09:34:14.493000
-- **Downloads:** 7065
+- **Owner:** Thaihoa1476050
+- **Size:** 18.73 GB
+- **Last Updated:** 2021-08-22 05:07:33.440000
+- **Downloads:** 1585
 - **License:** Not specified
 - **Description:** No description available
 
-#### [Amazon Product Reviews ](https://www.kaggle.com/datasets/saurav9786/amazon-product-reviews) ✅ Verified
+#### [UOT100 (Underwater Object Tracking) Dataset](https://www.kaggle.com/datasets/landrykezebou/uot100-underwater-object-tracking-dataset) ✅ Verified
 
-- **Owner:** Saurav Anand
-- **Size:** 109.50 MB
-- **Last Updated:** 2020-01-14 13:25:53.247000
-- **Downloads:** 24169
+- **Owner:** Landry KEZEBOU
+- **Size:** 5.62 GB
+- **Last Updated:** 2021-05-26 02:24:22.907000
+- **Downloads:** 851
 - **License:** Not specified
 - **Description:** No description available
 
-#### [Popular 10,000 movies listed on TMDb (latest)](https://www.kaggle.com/datasets/manashjyotiborah/top-10000-movies-hosted-on-tmdb) ✅ Verified
+#### [UOT32 (Underwater Object Tracking) Dataset](https://www.kaggle.com/datasets/landrykezebou/uot32-underwater-object-tracking-dataset) ✅ Verified
 
-- **Owner:** Manash Jyoti Borah
-- **Size:** 16.90 MB
-- **Last Updated:** 2023-06-28 16:08:58.060000
-- **Downloads:** 748
+- **Owner:** Landry KEZEBOU
+- **Size:** 3.40 GB
+- **Last Updated:** 2020-08-07 15:04:04.070000
+- **Downloads:** 1844
+- **License:** Not specified
+- **Description:** No description available
+
+#### [Real and Fake Face Detection](https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection) ✅ Verified
+
+- **Owner:** CIPLAB @ Yonsei University
+- **Size:** 431.16 MB
+- **Last Updated:** 2019-01-14 14:54:52.207000
+- **Downloads:** 26176
+- **License:** Not specified
+- **Description:** No description available
+
+#### [The Flavors of India: A Recipe Collection](https://www.kaggle.com/datasets/ramoliyafenil/dataset) ✅ Verified
+
+- **Owner:** RAMOLIYA FENIL
+- **Size:** 3.22 MB
+- **Last Updated:** 2023-08-16 16:31:15.540000
+- **Downloads:** 144
 - **License:** Not specified
 - **Description:** No description available
 
 ### HuggingFace Resources
 
-#### [krishnaveni76/anime-recommendation-models](https://huggingface.co/krishnaveni76/anime-recommendation-models) (Model) ✅ Verified
-
-- **Author:** Unknown
-- **Last Modified:** Unknown
-- **Downloads:** 0
-- **Likes:** 1
-- **Tags:** license:apache-2.0, region:us
-- **Description:** No description available
+No relevant resources found on HuggingFace.
 
 ### GitHub Repositories
 
-No relevant repositories found on GitHub.
+#### [pythonuser200/LLNet](https://github.com/pythonuser200/LLNet) ✅ Verified
+
+- **Description:** A low light image enhancement with deep learning
+- **Stars:** 87
+- **Forks:** 34
+- **Language:** Python
+- **Last Updated:** 2025-03-02T08:14:29Z
+- **License:** Not specified
+
+#### [Thehunk1206/Zero-DCE](https://github.com/Thehunk1206/Zero-DCE) ✅ Verified
+
+- **Description:** Implementation of Research Paper "Learning to Enhance Low-Light Image via Zero-Reference Deep Curve Estimation"
+- **Stars:** 33
+- **Forks:** 8
+- **Language:** Python
+- **Last Updated:** 2025-03-09T16:52:49Z
+- **License:** MIT License
+
+#### [alohaleonardo/Super_Resolution_with_CNNs_and_GANs](https://github.com/alohaleonardo/Super_Resolution_with_CNNs_and_GANs) ✅ Verified
+
+- **Description:** Image Super-Resolution Using SRCNN, DRRN, SRGAN, CGAN in Pytorch
+- **Stars:** 279
+- **Forks:** 75
+- **Language:** Jupyter Notebook
+- **Last Updated:** 2025-03-06T20:39:36Z
+- **License:** Not specified
+
+#### [USTCPCS/CVPR2018_attention](https://github.com/USTCPCS/CVPR2018_attention) ✅ Verified
+
+- **Description:** Context Encoding for Semantic Segmentation  MegaDepth: Learning Single-View Depth Prediction from Internet Photos  LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation  ...
+- **Stars:** 174
+- **Forks:** 38
+- **Language:** Not specified
+- **Last Updated:** 2025-03-12T03:48:49Z
+- **License:** Not specified
 
 ---
 
-## UC4: AI-Driven Customer Service Chatbot
+## UC4: AI-Powered Customer Support Chatbot
 
 ### Kaggle Datasets
 
@@ -387,7 +369,61 @@ No relevant repositories found on GitHub.
 - **Owner:** Kreesh Rajani
 - **Size:** 67.14 KB
 - **Last Updated:** 2023-03-02 13:54:43.990000
-- **Downloads:** 7686
+- **Downloads:** 7693
+- **License:** Not specified
+- **Description:** No description available
+
+#### [Chatbot dataset](https://www.kaggle.com/datasets/niraliivaghani/chatbot-dataset) ✅ Verified
+
+- **Owner:** Nirali vaghani
+- **Size:** 4.57 KB
+- **Last Updated:** 2023-02-19 05:49:34.090000
+- **Downloads:** 14652
+- **License:** Not specified
+- **Description:** No description available
+
+#### [Human Conversation training data](https://www.kaggle.com/datasets/projjal1/human-conversation-training-data) ✅ Verified
+
+- **Owner:** Projjal Gop
+- **Size:** 41.59 KB
+- **Last Updated:** 2020-11-24 07:11:10.630000
+- **Downloads:** 6723
+- **License:** Not specified
+- **Description:** No description available
+
+#### [Mental Health Dataset](https://www.kaggle.com/datasets/jiscecseaiml/mental-health-dataset) ✅ Verified
+
+- **Owner:** JIS College of Engineering
+- **Size:** 85.18 KB
+- **Last Updated:** 2024-06-05 10:04:18.800000
+- **Downloads:** 4087
+- **License:** Not specified
+- **Description:** No description available
+
+#### [Emotion Dataset](https://www.kaggle.com/datasets/abdallahwagih/emotion-dataset) ✅ Verified
+
+- **Owner:** Abdallah Wagih Ibrahim
+- **Size:** 213.20 KB
+- **Last Updated:** 2023-10-12 14:27:11.213000
+- **Downloads:** 6052
+- **License:** Not specified
+- **Description:** No description available
+
+#### [Women's E-Commerce Clothing Reviews](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews) ✅ Verified
+
+- **Owner:** nicapotato
+- **Size:** 2.79 MB
+- **Last Updated:** 2018-02-03 19:59:19.153000
+- **Downloads:** 78542
+- **License:** Not specified
+- **Description:** No description available
+
+#### [Ubuntu Dialogue Corpus](https://www.kaggle.com/datasets/rtatman/ubuntu-dialogue-corpus) ✅ Verified
+
+- **Owner:** Rachael Tatman
+- **Size:** 799.47 MB
+- **Last Updated:** 2017-08-16 19:10:26.273000
+- **Downloads:** 17186
 - **License:** Not specified
 - **Description:** No description available
 
@@ -396,34 +432,7 @@ No relevant repositories found on GitHub.
 - **Owner:** GOVINDARAM SRIRAM
 - **Size:** 161.57 KB
 - **Last Updated:** 2024-12-26 14:08:49.550000
-- **Downloads:** 1042
-- **License:** Not specified
-- **Description:** No description available
-
-#### [Multi-Language Dialogue Dataset (Gen by GPT-4)](https://www.kaggle.com/datasets/thedevastator/multi-language-dialogue-dataset-for-gpt-4) ✅ Verified
-
-- **Owner:** The Devastator
-- **Size:** 167.87 MB
-- **Last Updated:** 2023-11-24 17:15:49.140000
-- **Downloads:** 439
-- **License:** Not specified
-- **Description:** No description available
-
-#### [Fake News Classification](https://www.kaggle.com/datasets/aadyasingh55/fake-news-classification) ✅ Verified
-
-- **Owner:** Aadya Singh
-- **Size:** 38.96 MB
-- **Last Updated:** 2024-10-22 13:22:42.387000
-- **Downloads:** 5218
-- **License:** Not specified
-- **Description:** No description available
-
-#### [autodownloaded](https://www.kaggle.com/datasets/tahmidmir/autodownloaded) ✅ Verified
-
-- **Owner:** Mir Tahmid
-- **Size:** 34.96 KB
-- **Last Updated:** 2024-01-02 05:07:40.250000
-- **Downloads:** 34
+- **Downloads:** 1043
 - **License:** Not specified
 - **Description:** No description available
 
@@ -453,7 +462,204 @@ No relevant repositories found on GitHub.
 
 ---
 
-## UC5: Fraud Detection and Prevention
+## UC5: Targeted Advertising & Campaign Optimization
+
+### Kaggle Datasets
+
+#### [Superstore Marketing Campaign Dataset](https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset) ✅ Verified
+
+- **Owner:** Ahsan Raza
+- **Size:** 55.40 KB
+- **Last Updated:** 2023-01-02 19:25:08.370000
+- **Downloads:** 13614
+- **License:** Not specified
+- **Description:** No description available
+
+#### [Bank marketing campaigns dataset | Opening Deposit](https://www.kaggle.com/datasets/volodymyrgavrysh/bank-marketing-campaigns-dataset) ✅ Verified
+
+- **Owner:** VolodymyrGavrysh
+- **Size:** 390.86 KB
+- **Last Updated:** 2020-01-12 10:35:36.127000
+- **Downloads:** 21222
+- **License:** Not specified
+- **Description:** No description available
+
+#### [Customer Segmentation Dataset](https://www.kaggle.com/datasets/yasserh/customer-segmentation-dataset) ✅ Verified
+
+- **Owner:** M Yasser H
+- **Size:** 21.82 MB
+- **Last Updated:** 2022-01-02 12:10:33.363000
+- **Downloads:** 19997
+- **License:** Not specified
+- **Description:** No description available
+
+#### [Credit Card Customer Data](https://www.kaggle.com/datasets/aryashah2k/credit-card-customer-data) ✅ Verified
+
+- **Owner:** Arya Shah
+- **Size:** 6.28 KB
+- **Last Updated:** 2021-05-15 08:59:46.190000
+- **Downloads:** 9913
+- **License:** Not specified
+- **Description:** No description available
+
+#### [Sales and advertising clean dataset](https://www.kaggle.com/datasets/mahmoudshaheen1134/sales-and-advertising-clean-dataset) ✅ Verified
+
+- **Owner:** Mahmoud Shaheen
+- **Size:** 70.16 KB
+- **Last Updated:** 2024-08-26 10:59:36.307000
+- **Downloads:** 574
+- **License:** Not specified
+- **Description:** No description available
+
+#### [Social Media Advertising Dataset](https://www.kaggle.com/datasets/jsonk11/social-media-advertising-dataset) ✅ Verified
+
+- **Owner:** Jason Klein
+- **Size:** 7.75 MB
+- **Last Updated:** 2024-03-21 04:37:50.180000
+- **Downloads:** 2068
+- **License:** Not specified
+- **Description:** No description available
+
+#### [Game Recommendations on Steam](https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam) ✅ Verified
+
+- **Owner:** Anton Kozyriev
+- **Size:** 660.24 MB
+- **Last Updated:** 2024-08-14 13:15:03.880000
+- **Downloads:** 12643
+- **License:** Not specified
+- **Description:** No description available
+
+#### [Books Dataset](https://www.kaggle.com/datasets/abdallahwagih/books-dataset) ✅ Verified
+
+- **Owner:** Abdallah Wagih Ibrahim
+- **Size:** 1.58 MB
+- **Last Updated:** 2023-12-13 02:26:07.263000
+- **Downloads:** 4284
+- **License:** Not specified
+- **Description:** No description available
+
+### HuggingFace Resources
+
+No relevant resources found on HuggingFace.
+
+### GitHub Repositories
+
+No relevant repositories found on GitHub.
+
+---
+
+## UC6: Supply Chain Optimization
+
+### Kaggle Datasets
+
+#### [Supply Chain Data](https://www.kaggle.com/datasets/laurinbrechter/supply-chain-data) ✅ Verified
+
+- **Owner:** Laurin Brechter
+- **Size:** 700.86 KB
+- **Last Updated:** 2022-02-23 14:29:27.163000
+- **Downloads:** 11845
+- **License:** Not specified
+- **Description:** No description available
+
+#### [Supply Chain DataSet](https://www.kaggle.com/datasets/amirmotefaker/supply-chain-dataset) ✅ Verified
+
+- **Owner:** Amir Motefaker
+- **Size:** 9.12 KB
+- **Last Updated:** 2023-06-01 16:31:06.200000
+- **Downloads:** 12743
+- **License:** Not specified
+- **Description:** No description available
+
+#### [Retail Store Inventory Forecasting Dataset](https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inventory-forecasting-dataset) ✅ Verified
+
+- **Owner:** Anirudh Singh Chauhan
+- **Size:** 1.51 MB
+- **Last Updated:** 2024-11-24 20:09:48.580000
+- **Downloads:** 6614
+- **License:** Not specified
+- **Description:** No description available
+
+#### [Chocolate Sales Data 📊🍫](https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales) ✅ Verified
+
+- **Owner:** Atharva Soundankar
+- **Size:** 14.13 KB
+- **Last Updated:** 2025-03-19 03:51:40.270000
+- **Downloads:** 8015
+- **License:** Not specified
+- **Description:** No description available
+
+#### [📈 Demand Forecasting Dataset](https://www.kaggle.com/datasets/erogluegemen/demand-forecasting-dataset) ✅ Verified
+
+- **Owner:** erogluegemen
+- **Size:** 3.29 MB
+- **Last Updated:** 2024-06-30 06:42:59.533000
+- **Downloads:** 253
+- **License:** Not specified
+- **Description:** No description available
+
+#### [Jena Climate Dataset](https://www.kaggle.com/datasets/mnassrib/jena-climate) ✅ Verified
+
+- **Owner:** Baligh Mnassri
+- **Size:** 13.19 MB
+- **Last Updated:** 2021-01-20 15:18:39.830000
+- **Downloads:** 4671
+- **License:** Not specified
+- **Description:** No description available
+
+#### [Superstore Sales Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting) ✅ Verified
+
+- **Owner:** Rohit Sahoo
+- **Size:** 480.41 KB
+- **Last Updated:** 2020-09-11 15:40:14.483000
+- **Downloads:** 97506
+- **License:** Not specified
+- **Description:** No description available
+
+### HuggingFace Resources
+
+No relevant resources found on HuggingFace.
+
+### GitHub Repositories
+
+#### [MSUSAzureAccelerators/Intelligent-Supply-Chain-Management](https://github.com/MSUSAzureAccelerators/Intelligent-Supply-Chain-Management) ✅ Verified
+
+- **Description:** The Supply Chain Management Accelerator leverages deep learning forecasts, Azure Machine Learning and distributed computing with a Ray Cluster, to simulate an inventory optimization problem using synt...
+- **Stars:** 14
+- **Forks:** 5
+- **Language:** Jupyter Notebook
+- **Last Updated:** 2025-03-01T08:29:40Z
+- **License:** MIT License
+
+#### [samihanazrul/Supply-Chain-Optimization-with-Machine-Learning](https://github.com/samihanazrul/Supply-Chain-Optimization-with-Machine-Learning) ✅ Verified
+
+- **Description:** Revolutionize supply chain of your company with the project—predict demand, optimize inventory, and streamline routes using data analysis and machine learning. Stay ahead, reduce costs, and embrace su...
+- **Stars:** 13
+- **Forks:** 4
+- **Language:** Jupyter Notebook
+- **Last Updated:** 2025-03-01T22:03:17Z
+- **License:** MIT License
+
+#### [vikashsahu4/Inventory-Optimization-Algorithms](https://github.com/vikashsahu4/Inventory-Optimization-Algorithms) ✅ Verified
+
+- **Description:** Algorithms Library for Supply Chain Inventory Optimization
+- **Stars:** 16
+- **Forks:** 9
+- **Language:** Python
+- **Last Updated:** 2024-12-26T14:41:22Z
+- **License:** Not specified
+
+#### [jessee07/AGV-Fleet-Management-System-](https://github.com/jessee07/AGV-Fleet-Management-System-) ✅ Verified
+
+- **Description:** README.md AGV-Fleet-Management-System Project Description:  The current industrial revolution mainly focuses on automation, artificial intelligence, and interconnectivity to optimize and manage the pr...
+- **Stars:** 11
+- **Forks:** 1
+- **Language:** Not specified
+- **Last Updated:** 2024-12-05T20:35:52Z
+- **License:** Not specified
+
+---
+
+## UC7: Fraud Detection & Security Enhancement
 
 ### Kaggle Datasets
 
@@ -462,328 +668,61 @@ No relevant repositories found on GitHub.
 - **Owner:** Edgar Lopez-Rojas
 - **Size:** 177.75 MB
 - **Last Updated:** 2017-04-03 08:40:34.403000
-- **Downloads:** 107128
+- **Downloads:** 107136
 - **License:** Not specified
 - **Description:** No description available
 
-#### [Fastag Fraud Detection Datasets ](https://www.kaggle.com/datasets/thegoanpanda/fastag-fraud-detection-datesets-fictitious) ✅ Verified
+#### [Credit Card Fraud Detection Dataset 2023](https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023) ✅ Verified
 
-- **Owner:** Prathamesh Pradeep Dessai
-- **Size:** 106.28 KB
-- **Last Updated:** 2024-01-16 18:56:31.730000
-- **Downloads:** 1262
+- **Owner:** Nidula Elgiriyewithana ⚡
+- **Size:** 143.01 MB
+- **Last Updated:** 2023-09-18 10:00:19.780000
+- **Downloads:** 36556
 - **License:** Not specified
 - **Description:** No description available
 
-#### [SKAB - Skoltech Anomaly Benchmark](https://www.kaggle.com/datasets/yuriykatser/skoltech-anomaly-benchmark-skab) ✅ Verified
+#### [Anomaly-Detection-Dataset-UCF](https://www.kaggle.com/datasets/minhajuddinmeraj/anomalydetectiondatasetucf) ✅ Verified
 
-- **Owner:** Iurii Katser
-- **Size:** 1.24 MB
-- **Last Updated:** 2020-11-28 20:54:36.837000
-- **Downloads:** 2277
+- **Owner:** Minhaj Uddin Meraj
+- **Size:** 38.21 GB
+- **Last Updated:** 2022-05-20 20:29:17.897000
+- **Downloads:** 9223
 - **License:** Not specified
 - **Description:** No description available
 
-#### [UNSW_NB15](https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15) ✅ Verified
+#### [NASA Anomaly Detection Dataset SMAP & MSL](https://www.kaggle.com/datasets/patrickfleith/nasa-anomaly-detection-dataset-smap-msl) ✅ Verified
 
-- **Owner:** Mr Wells David
-- **Size:** 149.02 MB
-- **Last Updated:** 2019-01-29 01:06:31.127000
-- **Downloads:** 31517
+- **Owner:** astro__pat
+- **Size:** 82.02 MB
+- **Last Updated:** 2022-10-16 16:05:04.190000
+- **Downloads:** 1876
 - **License:** Not specified
 - **Description:** No description available
 
-#### [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) ✅ Verified
+#### [Credit Card Transactions Fraud Detection Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection) ✅ Verified
 
-- **Owner:** Machine Learning Group - ULB
-- **Size:** 65.95 MB
-- **Last Updated:** 2018-03-23 01:17:27.913000
-- **Downloads:** 839596
+- **Owner:** Kartik Shenoy
+- **Size:** 201.96 MB
+- **Last Updated:** 2020-08-05 15:20:55.217000
+- **Downloads:** 69765
 - **License:** Not specified
 - **Description:** No description available
 
-#### [Credit Card Fraud](https://www.kaggle.com/datasets/joebeachcapital/credit-card-fraud) ✅ Verified
+#### [Cybersecurity Incidents Dataset ](https://www.kaggle.com/datasets/huzpsb/cybersecurity-incidents-dataset) ✅ Verified
 
-- **Owner:** Joakim Arvidsson
-- **Size:** 212.68 MB
-- **Last Updated:** 2023-08-07 02:16:37.627000
-- **Downloads:** 3750
+- **Owner:** huzpsb
+- **Size:** 5.88 KB
+- **Last Updated:** 2025-01-24 06:18:11.857000
+- **Downloads:** 1503
 - **License:** Not specified
 - **Description:** No description available
 
-#### [Financial Fraud Detection Dataset](https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-detection-dataset) ✅ Verified
-
-- **Owner:** Sri Harsha Eedala
-- **Size:** 177.75 MB
-- **Last Updated:** 2024-03-07 18:02:06.393000
-- **Downloads:** 5664
-- **License:** Not specified
-- **Description:** No description available
-
-### HuggingFace Resources
-
-No relevant resources found on HuggingFace.
-
-### GitHub Repositories
-
-No relevant repositories found on GitHub.
-
----
-
-## UC6: Smart Battery Management
-
-### Kaggle Datasets
-
-#### [Mobile Price](https://www.kaggle.com/datasets/maryammanoochehry/mobile-price) ✅ Verified
-
-- **Owner:** Maryam Manoochehry
-- **Size:** 70.64 KB
-- **Last Updated:** 2023-07-05 20:09:38.423000
-- **Downloads:** 182
-- **License:** Not specified
-- **Description:** No description available
-
-#### [Smartphone Sensor Data for Mental Health Research](https://www.kaggle.com/datasets/thedevastator/smartphone-sensor-data-for-mental-health-researc) ✅ Verified
-
-- **Owner:** The Devastator
-- **Size:** 739.58 KB
-- **Last Updated:** 2023-01-21 14:08:38.783000
-- **Downloads:** 201
-- **License:** Not specified
-- **Description:** No description available
-
-#### [Mi(Xiaomi) mobiles dataset ](https://www.kaggle.com/datasets/gyanprakashkushwaha/mi-mobiles-dataset) ✅ Verified
-
-- **Owner:** Gyan Prakash Kushwaha
-- **Size:** 29.84 KB
-- **Last Updated:** 2023-07-24 04:14:50.773000
-- **Downloads:** 1061
-- **License:** Not specified
-- **Description:** No description available
-
-#### [Realme Mobiles Dataset](https://www.kaggle.com/datasets/gyanprakashkushwaha/realme-mobiles-dataset) ✅ Verified
-
-- **Owner:** Gyan Prakash Kushwaha
-- **Size:** 55.77 KB
-- **Last Updated:** 2023-07-26 11:06:40.457000
-- **Downloads:** 734
-- **License:** Not specified
-- **Description:** No description available
-
-#### [Electric Power Consumption](https://www.kaggle.com/datasets/fedesoriano/electric-power-consumption) ✅ Verified
-
-- **Owner:** fedesoriano
-- **Size:** 1.36 MB
-- **Last Updated:** 2022-08-01 21:25:51.237000
-- **Downloads:** 11787
-- **License:** Not specified
-- **Description:** No description available
-
-#### [Global Energy Consumption & Renewable Generation](https://www.kaggle.com/datasets/jamesvandenberg/renewable-power-generation) ✅ Verified
-
-- **Owner:** James Arthur
-- **Size:** 6.93 KB
-- **Last Updated:** 2021-10-01 16:02:10.420000
-- **Downloads:** 7622
-- **License:** Not specified
-- **Description:** No description available
-
-#### [NYC Building Energy Efficiency Ratings](https://www.kaggle.com/datasets/alistairking/nyc-building-energy-efficiency-ratings) ✅ Verified
-
-- **Owner:** Alistair King
-- **Size:** 21.62 KB
-- **Last Updated:** 2024-03-06 03:20:27.800000
-- **Downloads:** 1079
-- **License:** Not specified
-- **Description:** No description available
-
-### HuggingFace Resources
-
-#### [Karim2211/ReinforcementLearningModels](https://huggingface.co/Karim2211/ReinforcementLearningModels) (Model) ✅ Verified
-
-- **Author:** Unknown
-- **Last Modified:** Unknown
-- **Downloads:** 0
-- **Likes:** 0
-- **Tags:** reinforcement-learning, q-learning, gridworld, mountain-car, openai-gym, en, dataset:gym, license:mit, region:us
-- **Description:** No description available
-
-### GitHub Repositories
-
-#### [Javihaus/Digital-Twin-in-python](https://github.com/Javihaus/Digital-Twin-in-python) ✅ Verified
-
-- **Description:** In this repo we will show how to build a simple but useful Digital Twin using python. Our asset will be a Li-ion battery. This Digital Twin will allow us to model and predict batteries behavior and ca...
-- **Stars:** 80
-- **Forks:** 34
-- **Language:** Jupyter Notebook
-- **Last Updated:** 2025-03-12T23:08:27Z
-- **License:** MIT License
-
-#### [geeekpi/upsplus](https://github.com/geeekpi/upsplus) ✅ Verified
-
-- **Description:** UPS Plus is a new generation of UPS power management module. It is an improved version of the original UPS prototype. It has been fixed the bug that UPS could not charge and automatically power off du...
-- **Stars:** 77
-- **Forks:** 26
-- **Language:** Python
-- **Last Updated:** 2025-03-05T14:12:33Z
-- **License:** MIT License
-
-#### [HewlettPackard/dc-rl](https://github.com/HewlettPackard/dc-rl) ✅ Verified
-
-- **Description:** SustainDC is a set of Python environments for Data Center simulation and control using Heterogeneous Multi Agent Reinforcement Learning. Includes customizable environments for workload scheduling, coo...
-- **Stars:** 46
-- **Forks:** 11
-- **Language:** HTML
-- **Last Updated:** 2025-03-19T20:00:17Z
-- **License:** MIT License
-
-#### [AryanB13/Adaptive-Microgrid-Management-for-EV-Charging-Stations](https://github.com/AryanB13/Adaptive-Microgrid-Management-for-EV-Charging-Stations) ✅ Verified
-
-- **Description:** This project implements an intelligent Energy Management System (EMS) for optimizing Electric Vehicle (EV) charging efficiency using Reinforcement Learning.  It balances power from the grid, photovolt...
-- **Stars:** 10
-- **Forks:** 1
-- **Language:** Python
-- **Last Updated:** 2025-03-03T07:59:38Z
-- **License:** Not specified
-
-#### [TreborNamor/TradingView-Machine-Learning-GUI](https://github.com/TreborNamor/TradingView-Machine-Learning-GUI) ✅ Verified
-
-- **Description:** Embark on a trading journey with this project's cutting-edge stop loss/take profit generator, fine-tuning your TradingView strategy to perfection. Harness the power of sklearn's machine learning algor...
-- **Stars:** 807
-- **Forks:** 236
-- **Language:** HTML
-- **Last Updated:** 2025-03-18T10:24:00Z
-- **License:** MIT License
-
-#### [swati1024/torrents](https://github.com/swati1024/torrents) ✅ Verified
-
-- **Description:** Skip to content   Search… All gists Back to GitHub Sign in Sign up Instantly share code, notes, and snippets.  @giansalex giansalex/torrent-courses-download-list.md forked from M-Younus/torrent course...
-- **Stars:** 62
-- **Forks:** 0
-- **Language:** Not specified
-- **Last Updated:** 2025-03-19T04:12:41Z
-- **License:** Not specified
-
-#### [mynameishimanshu/Energy-efficient-CPU-scheduling-algorithms-in-operating-systems-for-mobiles-and-embedded-devices.](https://github.com/mynameishimanshu/Energy-efficient-CPU-scheduling-algorithms-in-operating-systems-for-mobiles-and-embedded-devices.) ✅ Verified
-
-- **Description:** Energy-efficient CPU scheduling algorithms are crucial for mobiles and embedded devices to optimize power consumption while maintaining performance. These algorithms prioritize tasks based on energy u...
-- **Stars:** 0
-- **Forks:** 0
-- **Language:** Not specified
-- **Last Updated:** 2024-11-30T06:55:37Z
-- **License:** Not specified
-
-#### [kanocarra/smart-battery-management-system](https://github.com/kanocarra/smart-battery-management-system) ✅ Verified
-
-- **Description:** Using machine learning to estimate the state of charge of lithium ion batteries for electric vehicles
-- **Stars:** 50
-- **Forks:** 30
-- **Language:** C
-- **Last Updated:** 2025-03-13T14:45:56Z
-- **License:** Not specified
-
-#### [harshika0926/Battery-management-system-using-machine-learning](https://github.com/harshika0926/Battery-management-system-using-machine-learning) ✅ Verified
-
-- **Description:** Machine learning can enhance a BMS by improving SOC and SOH estimation, detecting faults, and optimizing control policies. By leveraging data from the battery and other sensors, ML can lead to more ac...
-- **Stars:** 9
-- **Forks:** 1
-- **Language:** Jupyter Notebook
-- **Last Updated:** 2024-11-07T14:54:05Z
-- **License:** Not specified
-
----
-
-## UC7: AI-driven Supply Chain Optimization
-
-### Kaggle Datasets
-
-#### [🍕Food Bank🏦of the World🌍](https://www.kaggle.com/datasets/pranav941/-world-food-wealth-bank) ✅ Verified
-
-- **Owner:** Pranav941
-- **Size:** 11.86 MB
-- **Last Updated:** 2022-11-09 05:52:45.187000
-- **Downloads:** 1545
-- **License:** Not specified
-- **Description:** No description available
-
-#### [Food Balance Sheets](https://www.kaggle.com/datasets/cameronappel/food-balance-sheet-europe) ✅ Verified
-
-- **Owner:** Cam Appel
-- **Size:** 11.43 KB
-- **Last Updated:** 2018-10-23 16:02:02.210000
-- **Downloads:** 864
-- **License:** Not specified
-- **Description:** No description available
-
-#### [Texas Wind Turbine Dataset - Simulated](https://www.kaggle.com/datasets/pravdomirdobrev/texas-wind-turbine-dataset-simulated) ✅ Verified
-
-- **Owner:** Pravdomir Dobrev
-- **Size:** 136.73 KB
-- **Last Updated:** 2021-11-30 17:57:21.913000
-- **Downloads:** 2117
-- **License:** Not specified
-- **Description:** No description available
-
-#### [Electricity consumption UK 2009-2024](https://www.kaggle.com/datasets/albertovidalrod/electricity-consumption-uk-20092022) ✅ Verified
-
-- **Owner:** Alberto Vidal
-- **Size:** 20.60 MB
-- **Last Updated:** 2024-12-26 13:02:40.190000
-- **Downloads:** 4516
-- **License:** Not specified
-- **Description:** No description available
-
-#### [Predicting the sales of products of a retail chain](https://www.kaggle.com/datasets/mragpavank/predicting-the-sales-of-products-of-a-retail-chain) ✅ Verified
-
-- **Owner:** PAVAN KUMAR D
-- **Size:** 1.69 MB
-- **Last Updated:** 2021-01-07 09:25:48.513000
-- **Downloads:** 4163
-- **License:** Not specified
-- **Description:** No description available
-
-#### [Boat Products Review Dataset](https://www.kaggle.com/datasets/mansithummar67/boat-product-dataset) ✅ Verified
-
-- **Owner:** Mansi Thummar
-- **Size:** 65.80 KB
-- **Last Updated:** 2023-02-16 11:18:02.350000
-- **Downloads:** 1004
-- **License:** Not specified
-- **Description:** No description available
-
-#### [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) ✅ Verified
-
-- **Owner:** Olist
-- **Size:** 42.65 MB
-- **Last Updated:** 2021-10-01 19:08:27.970000
-- **Downloads:** 306281
-- **License:** Not specified
-- **Description:** No description available
-
-#### [Marketing Funnel by Olist](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist) ✅ Verified
-
-- **Owner:** Olist
-- **Size:** 277.89 KB
-- **Last Updated:** 2018-11-16 14:00:20.677000
-- **Downloads:** 15274
-- **License:** Not specified
-- **Description:** No description available
-
-#### [Hospital Supply Chain](https://www.kaggle.com/datasets/vanpatangan/hospital-supply-chain) ✅ Verified
-
-- **Owner:** Van Patangan
-- **Size:** 32.63 KB
-- **Last Updated:** 2024-10-21 20:20:36.143000
-- **Downloads:** 677
-- **License:** Not specified
-- **Description:** No description available
-
-#### [Data for supply chain optimization](https://www.kaggle.com/datasets/gullayeshwantkumar/data-for-supply-chain-optimization) ✅ Verified
-
-- **Owner:** yeshwant
-- **Size:** 512.00 B
-- **Last Updated:** 2023-02-20 03:52:28.643000
-- **Downloads:** 301
+#### [Cybersecurity 🪪 Intrusion 🦠 Detection Dataset](https://www.kaggle.com/datasets/dnkumars/cybersecurity-intrusion-detection-dataset) ✅ Verified
+
+- **Owner:** Dinesh Naveen Kumar Samudrala
+- **Size:** 261.29 KB
+- **Last Updated:** 2025-02-10 07:47:42.247000
+- **Downloads:** 1496
 - **License:** Not specified
 - **Description:** No description available
 
@@ -793,180 +732,153 @@ No relevant resources found on HuggingFace.
 
 ### GitHub Repositories
 
-#### [samirsaci/supply-chain-optimization](https://github.com/samirsaci/supply-chain-optimization) ✅ Verified
+#### [aws-solutions-library-samples/fraud-detection-using-machine-learning](https://github.com/aws-solutions-library-samples/fraud-detection-using-machine-learning) ✅ Verified
 
-- **Description:** Supply Chain Optimization with Python
-- **Stars:** 87
-- **Forks:** 30
+- **Description:** Setup end to end demo architecture for predicting fraud events with Machine Learning using Amazon SageMaker
+- **Stars:** 309
+- **Forks:** 156
 - **Language:** Jupyter Notebook
-- **Last Updated:** 2025-03-10T13:17:38Z
+- **Last Updated:** 2025-03-15T23:37:14Z
+- **License:** Apache License 2.0
+
+#### [JarFraud/FraudDetection](https://github.com/JarFraud/FraudDetection) ✅ Verified
+
+- **Description:** Accounting Fraud Detection Using Machine Learning
+- **Stars:** 134
+- **Forks:** 67
+- **Language:** MATLAB
+- **Last Updated:** 2025-03-17T06:46:05Z
 - **License:** Not specified
 
-#### [supplyseer-ai/supplyseer](https://github.com/supplyseer-ai/supplyseer) ✅ Verified
+#### [openvinotoolkit/anomalib](https://github.com/openvinotoolkit/anomalib) ✅ Verified
 
-- **Description:** Python library for Applied Computational Supply Chain & Logistics. Unlock Neural Nets, Bayesian EOQ, Optimization, Time Series, and more for smarter decisions.
-- **Stars:** 85
-- **Forks:** 9
+- **Description:** An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.
+- **Stars:** 4138
+- **Forks:** 716
 - **Language:** Python
-- **Last Updated:** 2025-03-15T23:06:53Z
-- **License:** GNU Affero General Public License v3.0
+- **Last Updated:** 2025-03-19T21:19:05Z
+- **License:** Apache License 2.0
 
-#### [LeiBAI/STG2Seq](https://github.com/LeiBAI/STG2Seq) ✅ Verified
+#### [SeldonIO/alibi-detect](https://github.com/SeldonIO/alibi-detect) ✅ Verified
 
-- **Description:** Implementation of STG2Seq: Spatial-temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting
-- **Stars:** 32
-- **Forks:** 13
-- **Language:** Python
-- **Last Updated:** 2024-11-27T08:57:33Z
-- **License:** Not specified
-
-#### [manujosephv/deeprenewalprocess](https://github.com/manujosephv/deeprenewalprocess) ✅ Verified
-
-- **Description:** GluonTS Implementation of Intermittent Demand Forecasting with Deep Renewal Processes arXiv:1911.10416v1 [cs.LG] 
-- **Stars:** 31
-- **Forks:** 11
-- **Language:** Python
-- **Last Updated:** 2025-03-14T02:02:28Z
-- **License:** MIT License
-
-#### [ManojKumarPatnaik/Major-project-list](https://github.com/ManojKumarPatnaik/Major-project-list) ✅ Verified
-
-- **Description:** A list of practical projects that anyone can solve in any programming language (See solutions). These projects are divided into multiple categories, and each category has its own folder.  To get start...
-- **Stars:** 157
-- **Forks:** 32
-- **Language:** Not specified
-- **Last Updated:** 2025-03-16T09:30:59Z
-- **License:** MIT License
-
-#### [frenkowski/SCIMAI-Gym](https://github.com/frenkowski/SCIMAI-Gym) ✅ Verified
-
-- **Description:** A Python library for addressing the supply chain inventory management problem using deep reinforcement learning algorithms.
-- **Stars:** 87
-- **Forks:** 22
+- **Description:** Algorithms for outlier, adversarial and drift detection
+- **Stars:** 2323
+- **Forks:** 228
 - **Language:** Jupyter Notebook
-- **Last Updated:** 2025-03-14T02:03:34Z
+- **Last Updated:** 2025-03-19T13:50:52Z
+- **License:** Other
+
+#### [abhinav-bhardwaj/IoT-Network-Intrusion-Detection-System-UNSW-NB15](https://github.com/abhinav-bhardwaj/IoT-Network-Intrusion-Detection-System-UNSW-NB15) ✅ Verified
+
+- **Description:** Network Intrusion Detection based on various machine learning and deep learning algorithms using UNSW-NB15 Dataset
+- **Stars:** 162
+- **Forks:** 41
+- **Language:** Jupyter Notebook
+- **Last Updated:** 2025-03-17T13:16:32Z
 - **License:** MIT License
 
-#### [jettbrains/-L-](https://github.com/jettbrains/-L-) ✅ Verified
+#### [abhinav-bhardwaj/Network-Intrusion-Detection-Using-Machine-Learning](https://github.com/abhinav-bhardwaj/Network-Intrusion-Detection-Using-Machine-Learning) ✅ Verified
 
-- **Description:** W3C Strategic Highlights  September 2019  This report was prepared for the September 2019 W3C Advisory Committee Meeting (W3C Member link). See the accompanying W3C Fact Sheet — September 2019. For th...
-- **Stars:** 84
-- **Forks:** 35
-- **Language:** Not specified
-- **Last Updated:** 2025-03-18T01:00:19Z
+- **Description:** A Novel Statistical Analysis and Autoencoder Driven Intelligent Intrusion Detection Approach
+- **Stars:** 130
+- **Forks:** 46
+- **Language:** Jupyter Notebook
+- **Last Updated:** 2025-03-16T09:08:49Z
 - **License:** GNU General Public License v3.0
 
-#### [alejomonbar/Quantum-Supply-Chain-Manager](https://github.com/alejomonbar/Quantum-Supply-Chain-Manager) ✅ Verified
+#### [Aryia-Behroziuan/neurons](https://github.com/Aryia-Behroziuan/neurons) ✅ Verified
 
-- **Description:** The quantum supply chain manager is a quantum solution for logistics problems. We use the power of quantum machine learning for product [backorder](https://www.investopedia.com/terms/b/backorder.asp) ...
-- **Stars:** 25
-- **Forks:** 6
-- **Language:** Jupyter Notebook
-- **Last Updated:** 2025-03-19T12:23:33Z
-- **License:** MIT License
-
-#### [emirhansilsupur/supply-chain-analytics-forecasting](https://github.com/emirhansilsupur/supply-chain-analytics-forecasting) ✅ Verified
-
-- **Description:** This project focuses on Supply Chain Analytics and Demand Forecasting using advanced analytics and models to optimize operations and predict future demand.
-- **Stars:** 6
-- **Forks:** 2
-- **Language:** Jupyter Notebook
-- **Last Updated:** 2025-03-14T02:04:59Z
+- **Description:** An ANN is a model based on a collection of connected units or nodes called "artificial neurons", which loosely model the neurons in a biological brain. Each connection, like the synapses in a biologic...
+- **Stars:** 65
+- **Forks:** 14
+- **Language:** Not specified
+- **Last Updated:** 2025-03-19T10:43:58Z
 - **License:** Not specified
 
-#### [1428akash/AI-Supply-Chain-Management-](https://github.com/1428akash/AI-Supply-Chain-Management-) ✅ Verified
+#### [raviprakash11/CreditCardFraudDetectionSystem](https://github.com/raviprakash11/CreditCardFraudDetectionSystem) ✅ Verified
 
-- **Description:** Python implementation of AI-powered supply chain management. Uses Apriori algorithm for association rule mining, data visualization, and machine learning for predictive analytics. Improves demand fore...
-- **Stars:** 1
-- **Forks:** 0
-- **Language:** Jupyter Notebook
-- **Last Updated:** 2024-10-17T21:47:42Z
+- **Description:** Implementation of an intelligence system to detect the fraud cases on the basis of classification.
+- **Stars:** 32
+- **Forks:** 8
+- **Language:** Python
+- **Last Updated:** 2025-03-19T08:58:52Z
 - **License:** Not specified
 
 ---
 
-## UC8: Targeted Marketing Campaigns
+## UC8: AI-driven Product Design & Development
 
 ### Kaggle Datasets
 
-#### [Retail Transactions Dataset](https://www.kaggle.com/datasets/prasad22/retail-transactions-dataset) ✅ Verified
+#### [DiffusionDB-2M –– Part 0001 to 0100 of 2000](https://www.kaggle.com/datasets/dschettler8845/diffusiondb-2m-part-0001-to-0100-of-2000) ✅ Verified
 
-- **Owner:** Prasad Patil
-- **Size:** 35.60 MB
-- **Last Updated:** 2024-05-18 14:18:10.227000
-- **Downloads:** 7573
+- **Owner:** Darien Schettler
+- **Size:** 56.63 GB
+- **Last Updated:** 2023-02-15 20:27:35.827000
+- **Downloads:** 2110
 - **License:** Not specified
 - **Description:** No description available
 
-#### [Predicting Credit Card Customer Segmentation](https://www.kaggle.com/datasets/thedevastator/predicting-credit-card-customer-attrition-with-m) ✅ Verified
+#### [Visual Scene Instructions for Generative LLMs](https://www.kaggle.com/datasets/alexandrelemercier/visual-scene-instructions-for-generative-llms) ✅ Verified
+
+- **Owner:** Alexandre Le Mercier
+- **Size:** 326.14 KB
+- **Last Updated:** 2025-03-18 10:01:37.597000
+- **Downloads:** 118
+- **License:** Not specified
+- **Description:** No description available
+
+#### [ModelNet40 - Princeton 3D Object Dataset](https://www.kaggle.com/datasets/balraj98/modelnet40-princeton-3d-object-dataset) ✅ Verified
+
+- **Owner:** Balraj Ashwath
+- **Size:** 1.91 GB
+- **Last Updated:** 2020-10-28 11:31:22.477000
+- **Downloads:** 7126
+- **License:** Not specified
+- **Description:** No description available
+
+#### [ModelNet10 - Princeton 3D Object Dataset](https://www.kaggle.com/datasets/balraj98/modelnet10-princeton-3d-object-dataset) ✅ Verified
+
+- **Owner:** Balraj Ashwath
+- **Size:** 454.47 MB
+- **Last Updated:** 2020-10-28 02:51:46.990000
+- **Downloads:** 2545
+- **License:** Not specified
+- **Description:** No description available
+
+#### [E-Commerce Sales Dataset](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data) ✅ Verified
 
 - **Owner:** The Devastator
-- **Size:** 378.68 KB
-- **Last Updated:** 2024-03-10 19:11:33.700000
-- **Downloads:** 10994
+- **Size:** 6.33 MB
+- **Last Updated:** 2022-12-03 09:27:17.413000
+- **Downloads:** 90200
 - **License:** Not specified
 - **Description:** No description available
 
-#### [Banking Dataset - Marketing Targets](https://www.kaggle.com/datasets/prakharrathi25/banking-dataset-marketing-targets) ✅ Verified
+#### [Nutrition facts for Starbucks Menu](https://www.kaggle.com/datasets/starbucks/starbucks-menu) ✅ Verified
 
-- **Owner:** Prakhar Rathi
-- **Size:** 576.43 KB
-- **Last Updated:** 2020-10-19 05:29:17.043000
-- **Downloads:** 44269
+- **Owner:** Starbucks
+- **Size:** 9.43 KB
+- **Last Updated:** 2017-07-20 21:49:50.800000
+- **Downloads:** 23896
 - **License:** Not specified
 - **Description:** No description available
 
-#### [Bank Marketing](https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing) ✅ Verified
+#### [COVID-19 Lung CT Scans](https://www.kaggle.com/datasets/mehradaria/covid19-lung-ct-scans) ✅ Verified
 
-- **Owner:** Henrique Yamahata
-- **Size:** 393.30 KB
-- **Last Updated:** 2018-06-06 15:19:35.950000
-- **Downloads:** 48427
+- **Owner:** Mehrad Aria
+- **Size:** 1.02 GB
+- **Last Updated:** 2021-01-24 21:41:47.013000
+- **Downloads:** 1778
 - **License:** Not specified
 - **Description:** No description available
 
-#### [Telecom Churn Dataset](https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets) ✅ Verified
+#### [3-D Anthropometry Measurements of Human Body](https://www.kaggle.com/datasets/thedevastator/3-d-anthropometry-measurements-of-human-body-sur) ✅ Verified
 
-- **Owner:** Baligh Mnassri
-- **Size:** 99.50 KB
-- **Last Updated:** 2019-07-05 08:08:31.300000
-- **Downloads:** 28478
-- **License:** Not specified
-- **Description:** No description available
-
-#### [U.S. Supermarket Data](https://www.kaggle.com/datasets/sindraanthony9985/marketing-data-for-a-supermarket-in-united-states) ✅ Verified
-
-- **Owner:** Sindra Anthony
-- **Size:** 68.47 KB
-- **Last Updated:** 2019-11-06 10:09:55.300000
-- **Downloads:** 9733
-- **License:** Not specified
-- **Description:** No description available
-
-#### [🔫 Counter Strike 2 Statistics 🔫](https://www.kaggle.com/datasets/computingvictor/counter-strike-2-statistics) ✅ Verified
-
-- **Owner:** ComputingVictor
-- **Size:** 3.24 KB
-- **Last Updated:** 2024-01-19 16:52:49.140000
-- **Downloads:** 1061
-- **License:** Not specified
-- **Description:** No description available
-
-#### [Data Professionals Salary - 2022](https://www.kaggle.com/datasets/iamsouravbanerjee/analytics-industry-salaries-2022-india) ✅ Verified
-
-- **Owner:** Sourav Banerjee
-- **Size:** 118.85 KB
-- **Last Updated:** 2022-07-17 11:28:56.467000
-- **Downloads:** 15602
-- **License:** Not specified
-- **Description:** No description available
-
-#### [Retail Sales Data with Seasonal Trends & Marketing](https://www.kaggle.com/datasets/abdullah0a/retail-sales-data-with-seasonal-trends-and-marketing) ✅ Verified
-
-- **Owner:** M abdullah
-- **Size:** 610.44 KB
-- **Last Updated:** 2024-09-18 16:15:46.573000
-- **Downloads:** 10139
+- **Owner:** The Devastator
+- **Size:** 462.29 KB
+- **Last Updated:** 2023-01-12 19:11:21.650000
+- **Downloads:** 550
 - **License:** Not specified
 - **Description:** No description available
 
@@ -976,10 +888,53 @@ No relevant resources found on HuggingFace.
 
 ### GitHub Repositories
 
-No relevant repositories found on GitHub.
+#### [AspirinCode/papers-for-molecular-design-using-DL](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) ✅ Verified
+
+- **Description:** List of Molecular and Material design using Generative AI and Deep Learning 
+- **Stars:** 753
+- **Forks:** 100
+- **Language:** Not specified
+- **Last Updated:** 2025-03-18T06:48:51Z
+- **License:** GNU General Public License v3.0
+
+#### [abusufyanvu/6S191_MIT_DeepLearning](https://github.com/abusufyanvu/6S191_MIT_DeepLearning) ✅ Verified
+
+- **Description:** MIT Introduction to Deep Learning (6.S191) Instructors: Alexander Amini and Ava Soleimany Course Information Summary Prerequisites Schedule Lectures Labs, Final Projects, Grading, and Prizes Software ...
+- **Stars:** 188
+- **Forks:** 64
+- **Language:** Jupyter Notebook
+- **Last Updated:** 2025-03-19T13:41:13Z
+- **License:** Not specified
+
+#### [djdprogramming/adfa2](https://github.com/djdprogramming/adfa2) ✅ Verified
+
+- **Description:** # David's Personal Roadmap to Learning Data Science #### Based on the article [Learn Data Science for free in 2021](https://www.kdnuggets.com/2021/01/learn-data-science-free-2021.html) from KDnuggets....
+- **Stars:** 33
+- **Forks:** 0
+- **Language:** Not specified
+- **Last Updated:** 2025-02-15T14:10:49Z
+- **License:** Not specified
+
+#### [Divyeshpratap/A.I.-AutoInspector](https://github.com/Divyeshpratap/A.I.-AutoInspector) ✅ Verified
+
+- **Description:** Advanced AI-powered application designed to automate vehicle visual damage assessment and supporting customers with technical car manuals and their queries via a conversational chatBot. The project in...
+- **Stars:** 16
+- **Forks:** 2
+- **Language:** Python
+- **Last Updated:** 2025-03-11T19:59:55Z
+- **License:** MIT License
+
+#### [ideoforms/isobar](https://github.com/ideoforms/isobar) ✅ Verified
+
+- **Description:** A Python package for creating and manipulating musical patterns, designed for use in algorithmic composition, generative music and sonification. Can be used to generate MIDI events, MIDI files, OSC me...
+- **Stars:** 391
+- **Forks:** 53
+- **Language:** Python
+- **Last Updated:** 2025-03-17T21:12:29Z
+- **License:** MIT License
 
 ---
 
 
 
-*Report generated on 2025-03-20 11:54:43*
+*Report generated on 2025-03-20 12:54:57*
