@@ -37,10 +37,11 @@ def MRWriterAgent(save_response_as_file) -> Agent:
             "If direct company-specific insights are limited, expand the analysis by referencing broader industry trends and comparable case studies.",
             "Ensure a balanced perspective by summarizing multiple credible sources while avoiding speculation or opinion-based conclusions.",
             "Present all information in a clean, well-structured format with clear section headers and bullet points where applicable to enhance readability.",
+            "Make sure to Include sources (url) of information after prargraphs wherever applicable, only where the content is not empty.",
         ],
         # show_tool_calls=True,
         expected_output="Comprehensive analysis of companies and their market segments report in markdown format",
-        # debug_mode=True,
+        debug_mode=True,
         save_response_to_file=save_response_as_file,
         markdown=True,
     )

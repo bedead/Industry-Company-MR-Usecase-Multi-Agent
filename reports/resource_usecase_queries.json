@@ -3,177 +3,217 @@
   "use_cases": [
     {
       "id": "UC1",
-      "title": "Enhanced Image and Video Processing",
+      "title": "AI-Powered Image Enhancement",
       "search_queries": {
         "kaggle": [
-          "image enhancement datasets kaggle",
-          "low light image enhancement CNN kaggle",
-          "computational photography datasets",
-          "deep learning image super resolution kaggle"
+          "image enhancement datasets",
+          "deep learning image processing kaggle",
+          "gan image enhancement competition",
+          "low light image enhancement dataset",
+          "computer vision datasets for smartphone photography"
         ],
         "huggingface": [
-          "image enhancement models huggingface",
-          "gan image generation huggingface",
-          "low-light image enhancement transformers",
-          "computer vision models for mobile"
+          "image enhancement models",
+          "gan models for image enhancement",
+          "pretrained models for image super-resolution",
+          "computer vision models for mobile",
+          "diffusion models for image enhancement"
         ],
         "github": [
-          "low-light image enhancement python",
-          "real-time image enhancement github",
-          "gan implementation for image processing",
-          "computer vision projects for smartphones"
+          "image enhancement python",
+          "pytorch image enhancement",
+          "tensorflow image enhancement",
+          "gan implementation image enhancement",
+          "mobile-friendly image enhancement algorithms"
         ]
       }
     },
     {
       "id": "UC2",
-      "title": "Personalized User Experience",
+      "title": "Predictive Maintenance for Manufacturing",
       "search_queries": {
         "kaggle": [
-          "app usage datasets kaggle",
-          "user behavior datasets for recommendation systems",
-          "collaborative filtering datasets",
-          "NLP sentiment analysis datasets for app reviews"
+          "predictive maintenance datasets",
+          "time series analysis manufacturing",
+          "sensor data analysis for equipment failure prediction",
+          "machine learning predictive maintenance",
+          "manufacturing equipment failure prediction datasets"
         ],
         "huggingface": [
-          "recommendation system models huggingface",
-          "nlp models for user personalization",
-          "content-based filtering models",
-          "user engagement prediction models"
+          "time series forecasting models",
+          "predictive maintenance models",
+          "anomaly detection models for time series",
+          "machine learning models for sensor data",
+          "pretrained models for predictive maintenance"
         ],
         "github": [
-          "personalized app recommendations github",
-          "user behavior analysis python",
-          "collaborative filtering implementation",
-          "nlp based user profiling github"
+          "predictive maintenance python",
+          "pytorch time series analysis",
+          "tensorflow anomaly detection",
+          "predictive maintenance using IoT data",
+          "machine learning predictive maintenance implementation"
         ]
       }
     },
     {
       "id": "UC3",
-      "title": "Predictive Maintenance for Manufacturing",
+      "title": "Personalized App Recommendations",
       "search_queries": {
         "kaggle": [
-          "machine maintenance datasets kaggle",
-          "time series analysis for predictive maintenance",
-          "iot sensor data for predictive maintenance",
-          "manufacturing equipment failure prediction"
+          "app usage datasets",
+          "recommendation systems datasets",
+          "collaborative filtering datasets",
+          "content based filtering datasets",
+          "user behavior datasets for app recommendations"
         ],
         "huggingface": [
-          "time series forecasting models huggingface",
-          "predictive maintenance models",
-          "machine learning models for iot data"
+          "recommendation models",
+          "collaborative filtering models",
+          "content-based filtering models",
+          "personalized recommendation models",
+          "pretrained recommendation models"
         ],
         "github": [
-          "predictive maintenance with python",
-          "iot data analysis for predictive maintenance github",
-          "time series forecasting using LSTM github",
-          "manufacturing analytics using machine learning"
+          "recommendation system python",
+          "collaborative filtering implementation",
+          "content-based filtering implementation",
+          "app recommendation system using python",
+          "recommendation system with user behavior data"
         ]
       }
     },
     {
       "id": "UC4",
-      "title": "Intelligent Power Management",
+      "title": "AI-Driven Customer Service Chatbot",
       "search_queries": {
         "kaggle": [
-          "smartphone battery datasets",
-          "power consumption prediction datasets",
-          "energy efficiency datasets for mobile devices"
+          "customer service chatbot datasets",
+          "nlp customer service datasets",
+          "dialogue datasets for chatbot",
+          "intent classification datasets",
+          "customer support chat logs datasets"
         ],
         "huggingface": [
-          "reinforcement learning models for power optimization",
-          "energy efficiency models for mobile devices",
-          "power consumption prediction models"
+          "chatbot models",
+          "dialogue models",
+          "nlp models for customer service",
+          "large language models for chatbots",
+          "pretrained chatbot models"
         ],
         "github": [
-          "reinforcement learning for power management github",
-          "power optimization algorithms python",
-          "battery life prediction using machine learning"
+          "customer service chatbot python",
+          "nlp chatbot implementation",
+          "dialogue management chatbot",
+          "chatbot using transformers",
+          "customer support chatbot with intent classification"
         ]
       }
     },
     {
       "id": "UC5",
-      "title": "Advanced Voice Assistant",
+      "title": "Fraud Detection and Prevention",
       "search_queries": {
         "kaggle": [
-          "speech recognition datasets kaggle",
-          "natural language understanding datasets",
-          "dialogue management datasets"
+          "fraud detection datasets",
+          "anomaly detection datasets",
+          "credit card fraud detection datasets",
+          "transaction fraud detection datasets",
+          "financial fraud datasets"
         ],
         "huggingface": [
-          "speech recognition models huggingface",
-          "nlp models for voice assistants",
-          "dialogue management models huggingface"
+          "anomaly detection models",
+          "fraud detection models",
+          "time series anomaly detection models",
+          "machine learning models for fraud detection",
+          "pretrained models for anomaly detection"
         ],
         "github": [
-          "speech recognition using python",
-          "nlp for voice assistants github",
-          "dialogue management systems github",
-          "conversational ai projects"
+          "fraud detection python",
+          "anomaly detection implementation",
+          "fraud detection using machine learning",
+          "time series anomaly detection python",
+          "fraud detection with imbalanced datasets"
         ]
       }
     },
     {
       "id": "UC6",
-      "title": "Fraud Detection & Security",
+      "title": "Smart Battery Management",
       "search_queries": {
         "kaggle": [
-          "fraud detection datasets kaggle",
-          "anomaly detection datasets",
-          "credit card fraud detection datasets"
+          "battery usage datasets",
+          "smartphone battery datasets",
+          "power consumption datasets",
+          "energy efficiency datasets",
+          "reinforcement learning for battery management"
         ],
         "huggingface": [
-          "anomaly detection models huggingface",
-          "fraud detection models",
-          "machine learning models for security"
+          "reinforcement learning models",
+          "power optimization models",
+          "battery management models",
+          "energy efficiency models",
+          "pretrained models for power optimization"
         ],
         "github": [
-          "fraud detection using python",
-          "anomaly detection algorithms github",
-          "machine learning for cybersecurity github"
+          "battery management python",
+          "reinforcement learning for battery optimization",
+          "power optimization algorithms",
+          "energy efficient algorithms for mobile devices",
+          "battery management using machine learning"
         ]
       }
     },
     {
       "id": "UC7",
-      "title": "Supply Chain Optimization",
+      "title": "AI-driven Supply Chain Optimization",
       "search_queries": {
         "kaggle": [
-          "supply chain datasets kaggle",
+          "supply chain datasets",
           "demand forecasting datasets",
-          "inventory management datasets"
+          "inventory management datasets",
+          "logistics datasets",
+          "supply chain optimization datasets"
         ],
         "huggingface": [
-          "time series forecasting models huggingface",
-          "supply chain optimization models"
+          "demand forecasting models",
+          "supply chain optimization models",
+          "inventory management models",
+          "time series forecasting models for supply chain",
+          "predictive analytics for supply chain"
         ],
         "github": [
           "supply chain optimization python",
-          "demand forecasting algorithms github",
-          "inventory management using machine learning"
+          "demand forecasting implementation",
+          "inventory management algorithms",
+          "supply chain optimization using machine learning",
+          "predictive analytics for supply chain optimization"
         ]
       }
     },
     {
       "id": "UC8",
-      "title": "Targeted Advertising (within App Ecosystem)",
+      "title": "Targeted Marketing Campaigns",
       "search_queries": {
         "kaggle": [
-          "advertising datasets kaggle",
-          "user segmentation datasets",
-          "recommendation system datasets for advertising"
+          "customer segmentation datasets",
+          "marketing campaign datasets",
+          "customer behavior datasets",
+          "marketing analytics datasets",
+          "predictive modeling for marketing"
         ],
         "huggingface": [
-          "recommendation system models huggingface",
-          "user segmentation models",
-          "targeted advertising models"
+          "customer segmentation models",
+          "marketing campaign optimization models",
+          "predictive modeling for marketing",
+          "customer churn prediction models",
+          "recommendation models for marketing"
         ],
         "github": [
-          "targeted advertising using python",
-          "recommendation system for advertising github",
-          "user segmentation algorithms github"
+          "customer segmentation python",
+          "marketing campaign optimization using python",
+          "customer behavior analysis using python",
+          "predictive modeling for marketing campaigns",
+          "customer churn prediction using machine learning"
         ]
       }
     }
